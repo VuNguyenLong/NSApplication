@@ -1,0 +1,2 @@
+@echo off
+conda activate app & pyinstaller --noconfirm --onefile --windowed --icon "F:/ThesisDraft/NSApp/ico/icon.ico" --name "ns_ui" --collect-data "librosa" --hidden-import "sklearn.utils._typedefs" --hidden-import "sklearn.neighbors._partition_nodes"  "F:/ThesisDraft/NSApp/main_app.py"

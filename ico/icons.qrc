@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="configure">configure.ico</file>
+    <file alias="form_logo">recording_icon.ico</file>
+    <file alias="pause">pause.ico</file>
+    <file alias="stop">stop.ico</file>
+    <file alias="play">play.ico</file>
+    <file alias="loading">loading.gif</file>
+    <file alias="convert">convert.ico</file>
+    <file alias="icon">icon.ico</file>
+    <file alias="logo">logo.ico</file>
+  </qresource>
+</RCC>
